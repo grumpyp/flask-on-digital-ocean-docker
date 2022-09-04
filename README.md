@@ -12,6 +12,7 @@ For more deployment possibilities also [visit my blog](https://content-baer.de/p
 ## Step 2 
 
 Login via SSH and follow the steps in the video
+`ssh root@<yourip>`
 
 ## Three 
 
