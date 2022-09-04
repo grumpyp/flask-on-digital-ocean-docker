@@ -1,6 +1,6 @@
 # Steps to setup a flask server in under 5 min on digitalocean
 
-[![Deeploy flask on digitalocean in under 5 min](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/5rj3_c-Hyu4)
+[![Deeploy flask on digitalocean in under 5 min](https://content-baer.de/wp-content/uploads/2022/09/Docker-Digitalocean-Flask-setup.jpg)](https://youtu.be/5rj3_c-Hyu4)
 
 ## Step 1
 
