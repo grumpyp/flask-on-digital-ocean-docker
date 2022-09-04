@@ -1,5 +1,7 @@
 # Steps to setup a flask server in under 5 min on digitalocean
 
+[![Deeploy flask on digitalocean in under 5 min](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/5rj3_c-Hyu4)
+
 ## Step 1
 
 Create a digitalocean account -> **[use this link to get 100 dollar start-bonus](https://m.do.co/c/4f67b45f5183)**
