@@ -2,6 +2,8 @@
 
 [![Deeploy flask on digitalocean in under 5 min](https://content-baer.de/wp-content/uploads/2022/09/Docker-Digitalocean-Flask-setup.jpg)](https://youtu.be/5rj3_c-Hyu4)
 
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=4f67b45f5183&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 ## Step 1
 
 Create a digitalocean account -> **[use this link to get 100 dollar start-bonus](https://m.do.co/c/4f67b45f5183)**
